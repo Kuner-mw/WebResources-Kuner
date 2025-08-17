@@ -1,2 +1,3 @@
-# WordMap-Kuner
-一个精简后的世界地图 js
+# WebResources-Kuner
+个人网页资源
+
